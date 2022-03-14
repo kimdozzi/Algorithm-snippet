@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .js {
+        font-weight: bold;
+        color: red;
+      }
+      #first {
+        color: green;
+      }
+      span {
+        color: bule;
+      }
+    </style>
+  </head>
+  <body>
+    <h1><a href="ex1.html">web</a></h1>
+    
+    <input
+      type="button"
+      value="night"
+      onclick="
+      var target = document.querySelector('body'); // 리펙토링의 중요성 => 중복되는 값이 4개가 아닌 1억개라고 생각하고 코드를 짜라 ! 
+      if(this.value === 'night') {
+        target.style.backgroundColor = 'black';
+        target.style.color = 'white';
+        this.value = 'day';
+    
+      var links = document.querySelectorAll('a');
+      var i = 0;
+      while(i<links.length) {
+        links[i].style.color = 'powderblue';
+        i += 1;
+      }
+    }
+
+    else {
+        target.style.backgroundColor = 'white';
+        target.style.color = 'black';
+        this.value = 'night';
+
+        var links = document.querySelectorAll('a');
+        var i = 0;
+        while(i<links.length) {
+        links[i].style.color = 'blue';
+        i += 1;
+        }
+    }
+    "
+    />
+
+    <h2 style="background-color: coral; color: powderblue">java</h2>
+    <div>java</div>
+    <span id="first" class="js">javascript</span>
+    <span class="js">javascript</span>
+  </body>
+</html>
+
+<!--
+    html 정적, js 동적
+
+    onclick, onchange, onkeydown -> event !
+
+    div(줄바꿈), span(줄바꿈x) 
+
+    <style>
+    class : 그룹화 -> .xxx
+    id : 아이디  식별 -> #xxx
+    span : 모든 span tags 
+    </style>
+
+    선택자 : id <1순위> - class <2순위> - span <3순위> 
+-->
