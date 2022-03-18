@@ -3,9 +3,3 @@
 * 4월부터 자바스크립트 스터디 
 * 추후 React 스터디 진행 예정 
 
-<br>
-
-```
-Slack, Notion, gather.town 
-```
-
