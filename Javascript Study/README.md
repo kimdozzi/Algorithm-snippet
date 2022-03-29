@@ -1,4 +1,4 @@
-## Javascript Study (2022-03-28 ~ )
+## Javascript Study (2022-04-04 ~ )
 ### 진행방식
 * 책 : 자바스크립트 Deep Dive
 * 매주 1~3개의 Chapter 진행
