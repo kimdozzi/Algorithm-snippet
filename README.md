@@ -42,6 +42,7 @@
 ### Python
 * [[Python] 리스트](https://velog.io/@neo5188/Python-%EB%A6%AC%EC%8A%A4%ED%8A%B8) 
 
+<br>
 
 ### IT
 * [[IT] 웹 동작 방식](https://velog.io/@neo5188/IT-%EC%9B%B9-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D)
