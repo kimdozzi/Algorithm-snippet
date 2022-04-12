@@ -36,6 +36,8 @@
 ### HTML5
 * [HTML5 기본 문법](https://velog.io/@neo5188/HTML5-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 * [HTML5 시맨틱(Semantic) 요소](https://velog.io/@neo5188/HTML5-%EC%8B%9C%EB%A7%A8%ED%8B%B1Semantic-%EC%9A%94%EC%86%8C)
+* [[HTML] 내부,외부 파일 요청하기(로드 과정)](https://velog.io/@neo5188/HTML-%EB%82%B4%EB%B6%80%EC%99%B8%EB%B6%80-%ED%8C%8C%EC%9D%BC-%EC%9A%94%EC%B2%AD%ED%95%98%EA%B8%B0%EB%A1%9C%EB%93%9C-%EA%B3%BC%EC%A0%95)
+
 
 <br>
 
