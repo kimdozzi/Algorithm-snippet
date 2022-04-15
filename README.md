@@ -39,6 +39,10 @@
 
 <br>
 
+* [[ECMAScript6] 템플릿 리터럴] (https://velog.io/@neo5188/ECMAScript6-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A6%AC%ED%84%B0%EB%9F%B4)
+
+<br>
+
 * [[IT] 웹 동작 방식](https://velog.io/@neo5188/IT-%EC%9B%B9-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D)
 
 <br>
