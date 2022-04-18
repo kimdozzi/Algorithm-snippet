@@ -53,7 +53,9 @@
 
 <br>
 
-### Algorithm
+### 코딩테스트 준비
+* [[python] zip 함수](https://velog.io/@neo5188/python-zip-%ED%95%A8%EC%88%98)
+
 
 <br>
 
