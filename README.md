@@ -37,6 +37,8 @@
 
 * [[CSS] CSS 기초 및 Color 속성](https://velog.io/@neo5188/CSS-CSS-%EA%B8%B0%EC%B4%88-%EB%B0%8F-Color-%EC%86%8D%EC%84%B1)
 * [[CSS] Inheritance, Cascading Style Sheets, Specificity](https://velog.io/@neo5188/CSSHTML5-Inheritance-Cascading-Style-Sheets-Specificity)
+* [[CSS] 모든 CSS 선택자 리스트](https://velog.io/@neo5188/CSS-%EB%AA%A8%EB%93%A0-CSS-%EC%84%A0%ED%83%9D%EC%9E%90-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
+
 
 <br>
 
