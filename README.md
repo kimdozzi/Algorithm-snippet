@@ -18,7 +18,9 @@
 <br>
 
 ### Javascript
+* [[Javascript] Object(1)](https://velog.io/@neo5188/Javascript-Object1)
 * [[ECMAScript6] 템플릿 리터럴](https://velog.io/@neo5188/ECMAScript6-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A6%AC%ED%84%B0%EB%9F%B4)
+
 
 <br>
 
