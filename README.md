@@ -46,9 +46,9 @@
 
 <br>
 
-### DBMS
+### DB
 * [[DBMS] DB 설계 과정](https://velog.io/@neo5188/DBMS-DB-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
-
+* [[DB] DBMS 이해하기](https://velog.io/@neo5188/DB-DBMS-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 <br>
 
 
