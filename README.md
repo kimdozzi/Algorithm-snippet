@@ -8,7 +8,8 @@
 ### Algorithm & Data Structure
 * [Data Structure] Merge Sort
 * [Data Structure] Quick Sort
-* [Algorithm] 재현식의 해 구하기: 재귀 알고리즘 분석용
+* [Algorithm] Shortest Path 
+* [Algorithm] Kruskal's MST 
 
 <br>
 
