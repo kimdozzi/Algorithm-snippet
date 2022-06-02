@@ -78,10 +78,3 @@
 
 ### Git
 *
-
-<br>
-
-
-### deep learning
-* CNN 모델의 기초
-
