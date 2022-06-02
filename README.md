@@ -9,7 +9,7 @@
 * [Data Structure] Merge Sort
 * [Data Structure] Quick Sort
 * [Algorithm] Shortest Path 
-* [[Algorithm] Kruskal's MST Algorithm](https://velog.io/@neo5188/Algorithm-Kruskals-MST-Algorithm)
+* [[Python] Kruskal's MST Algorithm](https://velog.io/@neo5188/Algorithm-Kruskals-MST-Algorithm)
 
 <br>
 
