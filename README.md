@@ -15,8 +15,8 @@
 
 
 ### CSS
-* [[CSS] CSS 기초 및 Color 속성](https://velog.io/@neo5188/CSS-CSS-%EA%B8%B0%EC%B4%88-%EB%B0%8F-Color-%EC%86%8D%EC%84%B1)
-* [[CSS] Inheritance, Cascading Style Sheets, Specificity](https://velog.io/@neo5188/CSSHTML5-Inheritance-Cascading-Style-Sheets-Specificity)
+* [CSS 기초 및 Color 속성](https://velog.io/@neo5188/CSS-CSS-%EA%B8%B0%EC%B4%88-%EB%B0%8F-Color-%EC%86%8D%EC%84%B1)
+* [CSS Inheritance, Cascading Style Sheets, Specificity](https://velog.io/@neo5188/CSSHTML5-Inheritance-Cascading-Style-Sheets-Specificity)
 * [CSS] Flex Box 사용해보기
 
 <br>
@@ -35,7 +35,7 @@
 <br>
 
 ### React
-* [[React] JSX](https://velog.io/@neo5188/React-JSX)
+* [React JSX](https://velog.io/@neo5188/React-JSX)
 
 <br>
 
@@ -49,8 +49,8 @@
 <br>
 
 ### DB
-* [[DBMS] DB 설계 과정](https://velog.io/@neo5188/DBMS-DB-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
-* [[DB] DBMS 이해하기](https://velog.io/@neo5188/DB-DBMS-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [DB 설계 과정](https://velog.io/@neo5188/DBMS-DB-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
+* [DBMS 이해하기](https://velog.io/@neo5188/DB-DBMS-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 
 <br>
