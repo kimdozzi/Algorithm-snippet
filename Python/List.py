@@ -1,17 +1,3 @@
-# List 응용
-# map함수를 이용해 리스트 각 원소의 길이 반환 (2차원 리스트일 경우 사용 가능)
-def func_len(mylist):
-    ans = list(map(len, mylist))
-    return ans
-
-
-if __name__ == '__main__':
-    mylist = [83, 48, 13, 4, 71, 11]
-    mylist_two = [[1, 2], [3, 4], [5]]
-    print(func_len(mylist_two))
-
-
-# ----------------------------------------------------------------------------------------
 # list comprehension의 기본 문법
 # '''[(변수를 활용한 값) for (사용할 변수 이름) in (순회할 수 있는 값)]
 # 기존 방법 '''
