@@ -1,5 +1,5 @@
-# BFS
-
+# BFS / DFS
+# BFS (Queue) 활용 , DFS (Stack) 활용
 import sys
 from collections import deque
 
@@ -72,31 +72,3 @@ def bfs(start_x, start_y, iscrash, visited, graph):
 
 
 print(bfs(0, 0, 0, visited, graph))
-
-
-# DFS
-n, m = map(int, input().split())
-
-graph = []
-for i in range(n):
-    graph.append(list(map(int, input())))
-
-
-def dfs(x, y):
-    if 0 <= x < n and 0 <= y < m and graph[x][y] == 0:
-        graph[x][y] = 1
-        dfs(x - 1, y)
-        dfs(x, y - 1)
-        dfs(x + 1, y)
-        dfs(x, y + 1)
-        return True
-    return False
-
-
-result = 0
-for i in range(n):
-    for j in range(m):
-        if dfs(i, j) == True:
-            result += 1
-
-print(result)
